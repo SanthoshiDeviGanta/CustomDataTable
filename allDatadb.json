@@ -1,0 +1,154 @@
+{
+    "technologies": [
+      {
+        "id": "1",
+        "title": "Black Dashboard",
+        "titleImg": "https://technext.github.io/argon-dashboard/assets/img/theme/sketch.jpg",
+        "budget": "2500",
+        "status": "delayed",
+        "users": [
+          {
+            "id": "1",
+            "name": "Ryan Tompson",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-1-800x800.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Romina Hadid",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-2-800x800.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Alexander Smith",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-3-800x800.jpg"
+          },
+          {
+            "id": "4",
+            "name": "Jessica Doe",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-4-800x800.jpg"
+          }
+        ],
+        "completion": "73"
+      },
+      {
+        "id": "2",
+        "title": "Argon Design System",
+        "titleImg": "https://technext.github.io/argon-dashboard/assets/img/theme/bootstrap.jpg",
+        "budget": "997",
+        "status": "pending",
+        "users": [
+          {
+            "id": "1",
+            "name": "Ryan Tompson",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-1-800x800.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Romina Hadid",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-2-800x800.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Alexander Smith",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-3-800x800.jpg"
+          },
+          {
+            "id": "4",
+            "name": "Jessica Doe",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-4-800x800.jpg"
+          }
+        ],
+        "completion": "62"
+      },
+      {
+        "id": "3",
+        "title": "Angular Now UI Kit PRO",
+        "titleImg": "https://technext.github.io/argon-dashboard/assets/img/theme/angular.jpg",
+        "budget": "1868800",
+        "status": "on schedule",
+        "users": [
+          {
+            "id": "1",
+            "name": "Ryan Tompson",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-1-800x800.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Romina Hadid",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-2-800x800.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Alexander Smith",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-3-800x800.jpg"
+          },
+          {
+            "id": "4",
+            "name": "Jessica Doe",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-4-800x800.jpg"
+          }
+        ],
+        "completion": "85"
+      },
+      {
+        "id": "4",
+        "title": "React",
+        "titleImg": "https://technext.github.io/argon-dashboard/assets/img/theme/react.jpg",
+        "budget": "3500",
+        "status": "on schedule",
+        "users": [
+          {
+            "id": "1",
+            "name": "Ryan Tompson",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-1-800x800.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Romina Hadid",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-2-800x800.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Alexander Smith",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-3-800x800.jpg"
+          },
+          {
+            "id": "4",
+            "name": "Jessica Doe",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-4-800x800.jpg"
+          }
+        ],
+        "completion": "90"
+      },
+      {
+        "id": "5",
+        "title": "Vue Paper UI Kit PRO",
+        "titleImg": "https://technext.github.io/argon-dashboard/assets/img/theme/vue.jpg",
+        "budget": "3000",
+        "status": "completed",
+        "users": [
+          {
+            "id": "1",
+            "name": "Ryan Tompson",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-1-800x800.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Romina Hadid",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-2-800x800.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Alexander Smith",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-3-800x800.jpg"
+          },
+          {
+            "id": "4",
+            "name": "Jessica Doe",
+            "profileImg": "https://technext.github.io/argon-dashboard/assets/img/theme/team-4-800x800.jpg"
+          }
+        ],
+        "completion": "100"
+      }
+    ]
+  }
