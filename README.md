@@ -18,3 +18,14 @@ Open another terminal and run
 ### `npm run server`
 
 to get connected to the db.json file.
+
+## Available Technologies
+1)React
+2)Redux Thunk
+3)CSS
+
+## Available Functionalities
+1)Searching
+2)Sorting
+3)Editing Table row
+4)Deleting Table row
